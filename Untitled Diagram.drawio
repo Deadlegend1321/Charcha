@@ -1,47 +1,38 @@
-<mxfile host="app.diagrams.net" modified="2024-03-17T05:34:40.609Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="-ngIa6f-m6Yg1Y92Rue1" version="24.0.2" type="github">
-  <diagram name="Page-1" id="3e8102d1-ef87-2e61-34e1-82d9a586fe2e">
-    <mxGraphModel dx="880" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2024-03-17T05:41:06.537Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="CDTIHTW3-zt7bXDonkKR" version="24.0.2" type="github">
+  <diagram id="3228e29e-7158-1315-38df-8450db1d8a1d" name="Page-1">
+    <mxGraphModel dx="1408" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="70666756c84bb93c-1" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=14;strokeColor=none;fillColor=#0069D1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="110" width="500" height="500" as="geometry" />
+        <mxCell id="21531" value="" style="ellipse;fillColor=#F08705;opacity=60;strokeColor=none;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="339.5" y="308.5" width="500" height="500" as="geometry" />
         </mxCell>
-        <mxCell id="70666756c84bb93c-2" value="A.I.&lt;div&gt;Solution&lt;/div&gt;&lt;div&gt;Model&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=22;strokeColor=none;fillColor=#ffffff;fontColor=#0069D1;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="400" y="230" width="260" height="260" as="geometry" />
+        <mxCell id="21532" value="" style="ellipse;fillColor=#12AAB5;opacity=60;strokeColor=none;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="179.5" y="18.5" width="500" height="500" as="geometry" />
         </mxCell>
-        <mxCell id="70666756c84bb93c-5" value="Community&lt;div&gt;Referrals&lt;/div&gt;" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#ffffff;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.office.users.users;rounded=0;comic=0;fontFamily=Verdana;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="356" y="440" width="46" height="50" as="geometry" />
+        <mxCell id="21533" value="" style="ellipse;fillColor=#e85642;opacity=60;strokeColor=none;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="489.5" y="18.5" width="500" height="500" as="geometry" />
         </mxCell>
-        <mxCell id="70666756c84bb93c-6" value="Interviews&amp;nbsp;&lt;div&gt;Feedbacks&lt;/div&gt;" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#ffffff;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.office.users.call_center_agent;rounded=0;comic=0;fontFamily=Verdana;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="669" y="408" width="46" height="55" as="geometry" />
+        <mxCell id="21534" value="Invention" style="text;fontSize=24;align=center;verticalAlign=middle;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="299.5" y="228.5" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="70666756c84bb93c-7" value="More&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Recruiter&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Responses&lt;/span&gt;&lt;/div&gt;" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#ffffff;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.office.users.response_group;rounded=0;comic=0;fontFamily=Verdana;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="348" y="203" width="58" height="54" as="geometry" />
+        <mxCell id="21535" value="Revolution" style="text;fontSize=24;align=center;verticalAlign=middle;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="699.5" y="228.5" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="70666756c84bb93c-8" value="Extensive&amp;nbsp;&lt;div&gt;Resume&amp;nbsp;&lt;/div&gt;&lt;div&gt;Database&lt;/div&gt;" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#ffffff;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.office.services.central_management_service;rounded=0;comic=0;fontFamily=Verdana;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="318" y="313" width="51" height="54" as="geometry" />
+        <mxCell id="21536" value="Tradition" style="text;fontSize=24;align=center;verticalAlign=middle;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="499.5" y="558.5" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="70666756c84bb93c-10" value="Prior Interviews&amp;nbsp;&lt;div&gt;Achievements&lt;/div&gt;" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#ffffff;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.office.security.token_service;rounded=0;comic=0;fontFamily=Verdana;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="450" y="492" width="60" height="56" as="geometry" />
+        <mxCell id="21537" value="Military" style="text;align=center;html=1;fontColor=#FFFFFF;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="569.5" y="198.5" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="70666756c84bb93c-11" value="Saving Time&lt;div&gt;&amp;amp; Resources&lt;/div&gt;" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#ffffff;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.office.concepts.on_premises;rounded=0;comic=0;fontFamily=Verdana;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="585" y="488" width="34" height="55" as="geometry" />
+        <mxCell id="21538" value="Conflict" style="text;align=center;html=1;fontColor=#FFFFFF;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="449.5" y="418.5" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="70666756c84bb93c-12" value="Internet&amp;nbsp;&lt;div&gt;Search&lt;/div&gt;" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#ffffff;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.office.concepts.globe_internet;rounded=0;comic=0;fontFamily=Verdana;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="441" y="140" width="49" height="49" as="geometry" />
+        <mxCell id="21539" value="Chaos" style="text;align=center;html=1;fontColor=#FFFFFF;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="699.5" y="418.5" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="70666756c84bb93c-13" value="No Endless&amp;nbsp;&lt;div&gt;Job Search&lt;/div&gt;" style="shadow=0;dashed=0;html=1;strokeColor=none;shape=mxgraph.mscae.general.continuous_cycle;fillColor=#ffffff;rounded=0;comic=0;fontFamily=Verdana;fontSize=14;fontColor=#FFFFFF;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;" parent="1" vertex="1">
-          <mxGeometry x="550" y="135" width="48" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="70666756c84bb93c-15" value="Expected&amp;nbsp;&lt;div&gt;CTC&lt;/div&gt;" style="shape=mxgraph.signs.travel.euro;html=1;fillColor=#ffffff;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="637" y="189" width="45" height="51" as="geometry" />
-        </mxCell>
-        <mxCell id="4hu9nLIlrvW8E1CyyR-m-4" value="" style="shape=mxgraph.signs.people.waiting_room_2;html=1;pointerEvents=1;fillColor=#FFFFFF;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="682" y="282" width="60" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="4hu9nLIlrvW8E1CyyR-m-6" value="Always Working" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FCFCFC;fontFamily=Verdana;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="688" y="354" width="60" height="30" as="geometry" />
+        <mxCell id="21540" value="Balance" style="text;align=center;html=1;fontColor=#FFFFFF;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="569.5" y="348.5" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
